@@ -1,0 +1,2 @@
+module Benchmarks::SimpleHelper
+end
