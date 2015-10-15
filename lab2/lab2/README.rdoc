@@ -5,5 +5,6 @@
 * Ruby
 * Ruby on Rails
 * Puma      (Ruby gem libary)
-* To just run the server use "bundle exec puma -C config/puma.rb -p {Port Number(Optional)}"
-
+* To just run the server use "bundle exec puma -C config/puma.rb"
+* To run the server with port 3000 "bundle exec puma -C config/puma.rb -p 3000"
+* Look at config/puma.rb to change settings

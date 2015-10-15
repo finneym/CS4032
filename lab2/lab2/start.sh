@@ -13,7 +13,7 @@ printf "Type in message"
 while [ "1" ]; do
 	printf "\n"
 	read message
-	curl -G --data-urlencode "message=$message" http://127.0.0.1:$port/benchmarks/simple
+	curl -G --data-urlencode "message=$message" http://127.0.0.1:$port/response/simple
 	if [ "$message" == "KILL SERVICE" ]; then
 		break
 	fi
