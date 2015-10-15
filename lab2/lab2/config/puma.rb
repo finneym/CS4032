@@ -1,6 +1,6 @@
 workers 4
-threads_count = 1 #each worker uses one thread
-threads threads_count, threads_count
+#each worker uses 1 - 2 thread(s)
+threads 1, 2
 preload_app!
 
 rackup DefaultRackup
