@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pirat",
+				"pirates_members"
+			],
+			[
+				"db",
+				"dbUser"
+			],
+			[
+				"fres",
+				"freshersMembers"
+			],
+			[
+				"sql_",
+				"sql_drop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lab2/lab2/app/controllers/response_controller.rb",
+			"settings":
+			{
+				"buffer_size": 931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lab2/lab2/config/routes.rb",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "lint",
+		"selected_items":
+		[
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"repl: ",
+				"SublimeREPL: Io"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"latextool",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"migra",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"SQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab2",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab2/lab2",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab2/lab2/app",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab2/lab2/app/controllers",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab2/lab2/config"
+	],
+	"file_history":
+	[
+		"/home/max/.config/sublime-text-3/Packages/Origami/Origami.sublime-settings",
+		"/home/max/.config/sublime-text-3/Packages/Origami/Default (Linux).sublime-keymap",
+		"/home/max/.cache/.fr-YqOdQo/Origami.sublime-commands",
+		"/home/max/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/max/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/max/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab1/sender/README.md",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab1/sender/README.rdoc",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab2/lab2/compile.sh",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab1/sender/app/controllers/welcome_controller.rb",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/CS4032/lab2/lab2/start.sh",
+		"/home/max/Dropbox/Uni/ss2s.txt",
+		"/home/max/.bashrc",
+		"/home/max/Desktop/Comp Arch Instructions",
+		"/home/max/.config/sublime-text-3/Packages/LaTeXTools/README.markdown",
+		"/home/max/Dropbox/Pirates/Secretary/Minutes/2015-16/2015-10-7.txt",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/lab1/report/report.tex",
+		"/home/max/Desktop/roman.hs",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/server.php",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/sender/config/routes.rb",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/sender/app/views/welcome/index.html.erb",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/sender/app/controllers/welcome_controller.rb",
+		"/home/max/Dropbox/Uni/Fourth Year/Distributed Systems/sender.hs",
+		"/home/max/Portable Programs/RubyMine-7.1.4/Install-Linux-tar.txt",
+		"/home/max/.vimrc",
+		"/home/max/Portable Programs/Heimdall-master/README",
+		"/home/max/Portable Programs/Heimdall-master/Linux/README",
+		"/home/max/Downloads/ioquake3-1.36-7.1.x86_64.run",
+		"/home/max/Portable Programs/Xonotic/Makefile",
+		"/home/max/Pirates/pirate-keys.txt",
+		"/home/max/Desktop/roman.py",
+		"/home/max/Desktop/PiratesScript/updateMembersFile.py",
+		"/home/max/Desktop/PiratesScript/toCSV.sql",
+		"/home/max/RubyProjects/blog/app/views/welcome/index.html.erb",
+		"/home/max/RubyProjects/blog/config/routes.rb",
+		"/home/max/RubyProjects/blog/app/controllers/articles_controller.rb",
+		"/home/max/RubyProjects/blog/app/views/articles/show.html.erb",
+		"/home/max/RubyProjects/blog/db/migrate/20150928211629_create_articles.rb",
+		"/home/max/RubyProjects/blog/app/views/articles/new.html.erb",
+		"/home/max/Desktop/PiratesScript/freshers_2015_members.csv",
+		"/home/max/Dropbox/Uni/Other/Pirates/pirates.txt",
+		"/home/max/Dropbox/Pirates/Records/freshers_2015_members.csv",
+		"/home/max/Desktop/PiratesScript/userUpdate.py",
+		"/home/max/Desktop/PiratesScript/addMembers.sql",
+		"/home/max/Desktop/PiratesScript/updateYear.sql",
+		"/home/max/Desktop/PiratesScript/additionalMembers.sql",
+		"/media/max/AE3D-B987/useragent",
+		"/home/max/.cache/.fr-lMbacv/pirates.ovpn",
+		"/etc/apt/sources.list",
+		"/home/max/ioquake3/ioquake3-q3ta",
+		"/home/max/Portable Programs/ioQuake/ioquake3-q3a-1.32-9.run",
+		"/home/max/ioquake3/README",
+		"/home/max/Downloads/ioquake3-q3a-1.32-9.run",
+		"/home/max/Dropbox/Thax/Websites/Max/domain_server_info.txt",
+		"/home/max/Portable Programs/android-studio/Install-Linux-tar.txt",
+		"/home/max/Portable Programs/idea-IC-141.1532.4/Install-Linux-tar.txt",
+		"/home/max/Documents/Pirates VPN/pirates.ovpn",
+		"/home/max/Saves/progress.sav",
+		"/home/max/Saves/Options.xml",
+		"/home/max/.purple/themes/Ambiance-Flat-zFusion-Purple-Pro/gtk-3.0/gtk.css",
+		"/home/max/Dropbox/Pirates/Secretary/Minutes/2014-15/2014-03-31.txt",
+		"/home/max/Dropbox/Pirates/Secretary/Minutes/2014-15/2014-09-30.txt",
+		"/home/max/Dropbox/Pirates/Secretary/Minutes/2014-15/2014-10-14",
+		"/home/max/Dropbox/Pirates/Secretary/Minutes/2014-15/2014-10-28.txt",
+		"/home/max/Dropbox/Get Past tcdwifi scan",
+		"/home/max/Dropbox/send_contacts.vcf",
+		"/home/max/Dropbox/ss2s.txt",
+		"/home/max/Dropbox/hotmail.txt",
+		"/home/max/Dropbox/Expressions.s",
+		"/etc/sysctl.conf",
+		"/home/max/Dropbox/codeanywheretest.c",
+		"/home/max/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/max/Dropbox/assignment_4.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n",
+			"\\n",
+			"\n",
+			"  ",
+			"\n",
+			"subsets",
+			"[3, 4]",
+			"[1, 3, 4],",
+			"[2, 3, 4]",
+			"[1, 2, 3, 4]",
+			"[3, 4],",
+			"],",
+			"list",
+			"2015",
+			"	",
+			"\n",
+			", ",
+			"CSV_FILE",
+			"members",
+			"f",
+			",",
+			",\n",
+			",",
+			"values",
+			",",
+			"(name, email, yearRegistered)",
+			", 2015)",
+			"VALUES (",
+			",",
+			"fix",
+			"pirates_wordpress.pirates_members",
+			"pirates_wordpress.",
+			"pirates_members",
+			"pirates_wordpress.pirates_members",
+			"pirates_wordpress.",
+			"pirates_members",
+			"pirates_wordpress.pirates_members",
+			"pirates_wordpress.",
+			"pirates_members",
+			"year Registered",
+			"pirates.ie",
+			",\n",
+			"hsdasd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lab2/lab2/app/controllers/response_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "lab2/lab2/config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CS4032.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/PiratesScript/addMembers.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
