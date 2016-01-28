@@ -10,6 +10,6 @@
 * ```( cd LockControlServer/ ; ./start port) ```
 * ```( cd RemoteProxy/ ; ./start ) ```
 
-Edit ```/RemoteProxy/lib/tasks/start_proxy.rake to run different tasks/tests```
+Edit ```/RemoteProxy/lib/tasks/start_proxy.rake``` to run different tasks/tests
 
 See ```/report/report.pdf``` for more info on implementation
