@@ -1,7 +1,10 @@
 ## How to Install
+
 * First install Ruby on Rails
 * ```./compile.sh```
+
 ## How to run
+
 * ```( cd DirectoryServer/ ; ./start port numThreads) ```
 * ```( cd DistributedFileServer/ ; ./start port name folder directoryHost:directoryPort numThreads) ```
 * ```( cd LockControlServer/ ; ./start port) ```
